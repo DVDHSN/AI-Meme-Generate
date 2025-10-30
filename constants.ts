@@ -11,3 +11,5 @@ export const MEME_TEMPLATES: MemeTemplate[] = [
   { id: '7', name: 'Change My Mind', url: 'https://picsum.photos/seed/meme7/500/300' },
   { id: '8', name: 'Success Kid', url: 'https://picsum.photos/seed/meme8/500/300' },
 ];
+
+export const MEME_GENRES: string[] = ['General', 'Wholesome', 'Dark Humor', 'Tech', 'Surreal'];
