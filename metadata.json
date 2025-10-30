@@ -1,0 +1,5 @@
+{
+  "name": "AI Meme Generator",
+  "description": "An AI-powered meme generator. Users can upload an image or select a template, and the AI will analyze the image to suggest funny captions. Users can also edit images using text prompts.",
+  "requestFramePermissions": []
+}
